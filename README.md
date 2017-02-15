@@ -1,9 +1,9 @@
 # AMARO iOS challenge
-O objetivo do desafio é construir um app de catálogo para alguns dos *best-sellers*  da história da [AMARO](https://amaro.com/).
+O objetivo do desafio é construir um app de catálogo para alguns dos *best-sellers* da história da [AMARO](https://amaro.com/).
 
 ## Algumas regras
 * O app não pode ser estático. Ela deve possuir alguma inteligência para exibir todos os produtos dinamicamente baseados no JSON.
-* Todos os produtos do arquivo products.json devem ser exibidos no catálogo.
+* Todos os produtos do arquivo [products.json](https://github.com/amarofashion/mobile-ios-challenge/blob/master/products.json) devem ser exibidos no catálogo.
 * Se você estiver com dúvidas, busque por referências no Google, ou pergunte para amigos. Mas não peça para eles resolverem o desafio para você.
 
 ## Requisitos
