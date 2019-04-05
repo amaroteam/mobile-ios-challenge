@@ -5,7 +5,7 @@ In this exercise, the proposed challenge is to create a catalogue app that displ
 * The app must read product data from [this mocked products API](http://www.mocky.io/v2/59b6a65a0f0000e90471257d).
 * All products from the resource must be displayed.
 * You may use any third-party libraries as you see fit.
-* In case you need any help, feel free to search for reference materials on Google os ask your friends, but do not ask them to work on the challenge for you, which is obviously unethical behaviour.
+* In case you need any help, feel free to search for reference materials on Google or ask your friends, but do not ask them to work on the challenge for you, which is obviously unethical behaviour.
 
 ## Basic requirements
 For each product item, the following information should be displayed:
